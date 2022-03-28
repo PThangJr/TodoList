@@ -1,0 +1,8 @@
+export const ADD_TODO = "ADD_TODO";
+export const CHANGE_STATUS_TODO = "CHANGE_STATUS_TODO";
+export const DELETE_TODO = "DELETE_TODO";
+export const CHANGE_ALL_STATUS_TODO = "CHANGE_ALL_STATUS_TODO";
+export const DELETE_ALL_TODO = "DELETE_ALL_TODO";
+export const UPDATE_TODO = "UPDATE_TODO";
+export const SORT_TODO = "SORT_TODO";
+export const FILTER_TODO = "FILTER_TODO";
